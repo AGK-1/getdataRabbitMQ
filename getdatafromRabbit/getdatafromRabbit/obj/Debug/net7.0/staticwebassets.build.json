@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3qtvCHTuc2WicSXQ3z3FtS1qsUl2bdo9W5KKR7UQ7BQ=",
+  "Source": "getdatafromRabbit",
+  "BasePath": "_content/getdatafromRabbit",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
